@@ -18,6 +18,7 @@ O `cheese` é uma aplicação simples e leve para captura de fotos e vídeos por
 
 ### `v4l-utils`
 
+O `v4l-utils` é um conjunto de ferramentas para gerenciar, configurar e depurar dispositivos de vídeo no `Linux` que utilizam a interface `Video4Linux2 (V4L2)`.
 
 ## 1. Como configurar/instalar/usar o `cheese` no `Linux Ubuntu` [1][3]
 
