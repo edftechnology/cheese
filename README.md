@@ -24,7 +24,7 @@ O `v4l-utils` é um conjunto de ferramentas para gerenciar, configurar e depurar
 
 Para configurar/instalar/usar o `cheese` no `Linux Ubuntu`, você pode seguir estes passos:
 
-1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando:
+1. Abrir o `Terminal Emulator`. Você pode fazer isso pressionando:
 
     ```bash
     Ctrl + Alt + T
